@@ -1,0 +1,19 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/init_mem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/RegFile.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'reg_file'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/adder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'adder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/d_mem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'd_mem'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/i_mem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'i_mem'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/l2pm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'l2pm'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/pc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'pc'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/sign_ext.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'extender'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/yaras/OneDrive/Desktop/23-24/Spring 2024/EECS 443/Lab/FinalProject_Yara/mips_mpu_16instr_yara/mips_mpu_16instr_yara.srcs/sources_1/new/datapath.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'datapath'

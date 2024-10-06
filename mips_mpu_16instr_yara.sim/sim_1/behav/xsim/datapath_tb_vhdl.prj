@@ -1,0 +1,23 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/imports/design_sources/math_real.vhdl" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/init_mem.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/RegFile.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/adder.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/alu.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/control_unit.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/d_mem.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/i_mem.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/l2pm.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/imports/design_sources/math_real-body.vhdl" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/pc.vhd" \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/sign_ext.vhd" \
+
+vhdl2008 xil_defaultlib  \
+"../../../../mips_mpu_16instr_yara.srcs/sources_1/new/datapath.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../mips_mpu_16instr_yara.srcs/sim_1/new/datapath_tb.vhd" \
+
+# Do not sort compile order
+nosort
